@@ -3,10 +3,8 @@
 # count_words("The cake is done. It is a big cake!") 
 # --> {"cake":2, "big":1, "is":2, "the":1, "a":1, "it":1}
 
-from curses import KEY_UNDO
-from operator import contains
-from os import listdir
-from zlib import Z_TREES
+
+
 import string
 
 
